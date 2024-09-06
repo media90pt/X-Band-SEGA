@@ -1,5 +1,5 @@
 # X-Band2-SEGA
-This is a prototipe for developing a project to put anySEGA Genesis / MegaDrive on-line.
+This is a ideia concept for developing a project to put anySEGA Genesis / MegaDrive on-line.
 The purpoise is to make a ESP32 manage in the cartnige or a rom ,receive game to other people across the internet and game on .
 
 Creating a Sega Mega Drive cartridge with internet connectivity that remains functional even without the original X-Band servers involves a few crucial steps:
